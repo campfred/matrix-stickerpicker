@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Campemotions.json"
+  ],
+  "homeserver_url": "https://matrix.wouff.ca"
+}
